@@ -32,8 +32,10 @@ Implemented in a fully interactive **Jupyter Notebook**, this project demonstrat
 
 1. Move into the task folder:
 
+```
 $ cd Task1/
 $ jupyter notebook
+```
 
 2. Open the notebook `DAS_Task1_Group3.ipynb` and run each section sequentially.
 
