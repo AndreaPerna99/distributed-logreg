@@ -4,6 +4,11 @@
 Decentralized machine learning algorithm for logistic regression using Gradient Tracking across a network of agents.
 
 ---
+## 📌 Project Info
+- 🎓 Course: Distributed Autonomous Systems
+- 🏫 University of Bologna
+- 📅 Year: 2025
+---
 
 ## 🧠 About the Project
 
@@ -13,8 +18,7 @@ This project implements a **distributed classification** system using **Gradient
 - 🧮 **Centralized Classification** — Logistic regression via gradient descent on synthetic data.
 - 🛰 **Distributed Classification** — Classifying data distributed across agents using Gradient Tracking.
 
-Implemented in a fully interactive **Jupyter Notebook**, this project demonstrates the real-world applicability of decentralized learning algorithms for nonlinear classification tasks. This project was developed as the first part of the final exam project for the Distributed Autonomous System course at the Master Degree in Automation Engineering, University of Bologna.
-
+Implemented in a fully interactive **Jupyter Notebook**, this project demonstrates the real-world applicability of decentralized learning algorithms for nonlinear classification tasks.
 ---
 
 ## 🗂 Project Structure
