@@ -9,12 +9,11 @@ Decentralized machine learning algorithm for logistic regression using Gradient 
 
 This project implements a **distributed classification** system using **Gradient Tracking (GT)** in a multi-agent framework. It is divided into three main parts:
 
-- 🔄 **Distributed Optimization** — Solving a quadratic consensus problem using GT.
+- 🔄 **Distributed Optimization** — Solving a quadratic consensus problem using Gradient Tracking.
 - 🧮 **Centralized Classification** — Logistic regression via gradient descent on synthetic data.
-- 🛰 **Distributed Classification** — Classifying data distributed across agents using GT.
+- 🛰 **Distributed Classification** — Classifying data distributed across agents using Gradient Tracking.
 
 Implemented in a fully interactive **Jupyter Notebook**, this project demonstrates the real-world applicability of decentralized learning algorithms for nonlinear classification tasks. This project was developed as the first part of the final exam project for the Distributed Autonomous System course at the Master Degree in Automation Engineering, University of Bologna.
----
 
 ---
 
