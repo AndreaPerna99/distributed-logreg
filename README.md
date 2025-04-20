@@ -13,7 +13,8 @@ This project implements a **distributed classification** system using **Gradient
 - 🧮 **Centralized Classification** — Logistic regression via gradient descent on synthetic data.
 - 🛰 **Distributed Classification** — Classifying data distributed across agents using GT.
 
-Implemented in a fully interactive **Jupyter Notebook**, this project demonstrates the real-world applicability of decentralized learning algorithms for nonlinear classification tasks.
+Implemented in a fully interactive **Jupyter Notebook**, this project demonstrates the real-world applicability of decentralized learning algorithms for nonlinear classification tasks. This project was developed as the first part of the final exam project for the Distributed Autonomous System course at the Master Degree in Automation Engineering, University of Bologna.
+---
 
 ---
 
@@ -21,12 +22,14 @@ Implemented in a fully interactive **Jupyter Notebook**, this project demonstrat
 
 ```
 📦 distributed-logreg/
-├── 📁 Task1/                                      # Main notebook and materials
-│   ├── 📓 DAS_Task1_Group3.ipynb                  # Jupyter Notebook
-│   ├── 📄 Task1.pdf                               # Notebook execution PDF
-│   ├── 📘 report_group_03.pdf                     # Full project report (pages 7–18 relevant)
-│   └── 📁 images/                                 # Optional folder for future plots
-├── 📄 README.md                                   # You are here!
+├ 📓 DAS_Task1_Group3.ipynb                  # Jupyter Notebook
+├ 📄 Task1.pdf                               # Notebook execution PDF
+├ 📘 report_group_03.pdf                     # Full project report (pages 7–18 relevant)
+┣ 📁 images
+┃ ┣ 📸 task1_1.png
+┃ ┣ 📸 task1_2.png
+┣ ┣ 📸 task1_3.png
+├ 📄 README.md                                   # You are here!
 ```                                                 
 ## ⚙️ How to Run
 
@@ -48,11 +51,15 @@ $ jupyter notebook
 - Test different topologies: cycle, path, star.
 - Plots include agents' states, gradient norms, and cost convergence.
 
+![Gradient Tracking](./images/task1_1.png)
+
 ### 🧠 Task 1.2 – Centralized Classification
 
 - Generate 2D datasets labeled by nonlinear conic functions (e.g., ellipse, parabola).
 - Apply centralized Gradient Descent for logistic regression.
 - Evaluate classification on train/test sets and compute key metrics.
+
+![Logistic Regression](./images/task1_2.png)
 
 ### 🌐 Task 1.3 – Distributed Classification
 
@@ -62,6 +69,8 @@ $ jupyter notebook
 - Visualize decision boundaries and metric evolution.
 - Classify with and without label noise and compare results.
 
+![Distributed Classification](./images/task1_3.png)
+
 ## 📊 Output & Evaluation
 
 - 📉 Plots: Cost evolution, gradient norms, decision boundaries.
@@ -70,8 +79,8 @@ $ jupyter notebook
 
 ## 📎 Resources
 
-- 📘 Full Report (PDF): ./Task1/report_group_03.pdf (pages 7–18)
-- 📄 Notebook Output (PDF): ./Task1/Task1.pdf
+- [📘 Full Report (PDF)](./report_group_03.pdf)
+- [📄 Notebook Output (PDF)](./Task1.pdf)
 
 ## 👨‍🎓 Authors
 
