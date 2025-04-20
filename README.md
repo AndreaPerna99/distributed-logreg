@@ -24,11 +24,11 @@ Implemented in a fully interactive **Jupyter Notebook**, this project demonstrat
 ├ 📓 DAS_Task1_Group3.ipynb                  # Jupyter Notebook
 ├ 📄 Task1.pdf                               # Notebook execution PDF
 ├ 📘 report_group_03.pdf                     # Full project report (pages 7–18 relevant)
-┣ 📁 images
-┃ ┣ 📸 task1_1.png
-┃ ┣ 📸 task1_2.png
-┣ ┣ 📸 task1_3.png
-├ 📄 README.md                                   # You are here!
+┣ 📁 images                                  # Folder for images
+┃ ┣ 📸 task1_1.png                           # Plot of Distributed Optimization
+┃ ┣ 📸 task1_2.png                           # Plot of Centralized Classification
+┣ ┣ 📸 task1_3.png                           # Plot of Distributed Classification
+├ 📄 README.md                               # You are here!
 ```                                                 
 ## ⚙️ How to Run
 
