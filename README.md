@@ -7,7 +7,7 @@ Decentralized machine learning algorithm for logistic regression using Gradient 
 ## 📌 Project Info
 - 🎓 Course: Distributed Autonomous Systems
 - 🏫 University of Bologna
-- 📅 Year: 2025
+- 📅 Year: 2024
 ---
 
 ## 🧠 About the Project
